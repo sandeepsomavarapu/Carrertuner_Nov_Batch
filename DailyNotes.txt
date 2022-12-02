@@ -45,31 +45,71 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.281-b09, mixed mode)
 keywords  53  2  lowercase
 
 
-class Welcome
+class Welcome123
 {
-
 public static void main(String args[])
 {
 System.out.println("welcome to carrertuner");
-
+}
 }
 
-
-}
-
-
+Identifiers:
+============
 
 
+Any name in java will call it as Identifier
+
+	identfication
 
 
+			A-Z
+			a-z
+			0-9
+			$ _
+			
+	Hemanth
 
+Variables:
+==========
+	
+	name given to memory location
 
+		age=30
 
+		2 DT
+	PDT     NPDT	
+			String,arrays....
+		
+PDT:
+		
+	8 pdt 
 
-
-
-
-
+	byte	1 byte  -128 to 127
+	short	2		-32768 to 32767				byte age=30; 1 byte
+	int		4		-2147483648 to 2147483647
+	long	8									long contact=9494348734;
+	
+	float	4		salary=19.523423324234234
+	double  8
+	
+	boolean 1 bit 0/1
+	char    2 bytes 
+		
+		
+		C -->English
+		java-->18 languages
+		
+		
+	
+syntax:
+		datatype varname=value;
+		
+byte age=30;
+short marks=340;
+float salary=23.5678f;		
+boolean result=true;
+		
+		
 
 
 
